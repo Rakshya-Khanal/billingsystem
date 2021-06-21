@@ -1,0 +1,15 @@
+C:\Users\khana\Desktop\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\khana\Desktop\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\khana\Desktop\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.bill_entry.resources
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.mdi_user.resources
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.login.resources
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.customer_register.resources
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.employee.resources
+C:\Users\khana\Desktop\BillingSystem\obj\Debug\BillingSystem.view_employee.resources
